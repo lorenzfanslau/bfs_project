@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+3bce2e79f8037853b1b0d3cb07473438 CMakeFiles/flight_hex
+8a551173c5c298b4147153d4e15679f2 CMakeFiles/flight_upload
+afbce6cac4793cae61801be0ca0a5f59 datalog_fmu_v2.pb.c
+6f27e3acb12e9c862f62a6a1e3c21b4d flight.hex
+d97d6bf13c311b5bd69d0693aa770493 nanopb/generator/nanopb_generator.py
+4aa009b3ccb57be19312639bdcb87885 nanopb/generator/proto/nanopb_pb2.py
